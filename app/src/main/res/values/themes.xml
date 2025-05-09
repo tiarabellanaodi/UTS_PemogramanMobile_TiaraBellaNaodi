@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Factstory" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/my_primary</item>
+        <item name="colorSecondary">@color/my_secprimary</item>
+        <item name="colorContainer">@color/my_container</item>
+        <item name="colorOnContainer">@color/my_onContainer</item>
+    </style>
+
+    <style name="Theme.Factstory" parent="Base.Theme.Factstory" />
+</resources>
