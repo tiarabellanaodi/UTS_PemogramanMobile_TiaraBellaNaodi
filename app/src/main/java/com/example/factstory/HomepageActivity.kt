@@ -27,7 +27,7 @@ class HomepageActivity : AppCompatActivity() {
                         .commit()
                     true
                 }
-                R.id.nav_bookmark -> {
+                R.id.nav_explore -> {
                     supportFragmentManager.beginTransaction()
                         .replace(R.id.fragment_container, ExploreFragment())
                         .commit()
