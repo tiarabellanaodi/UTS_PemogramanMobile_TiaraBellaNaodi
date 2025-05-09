@@ -26,7 +26,7 @@
                 android:layout_marginBottom="60dp"
                 android:text="Your worst sin is that you have destroyed and betrayed yourself for nothing."
                 android:gravity="center"
-                android:textSize="18sp"
+                android:textSize="20sp"
                 android:textStyle="bold"
                 android:textColor="#000000" />
 

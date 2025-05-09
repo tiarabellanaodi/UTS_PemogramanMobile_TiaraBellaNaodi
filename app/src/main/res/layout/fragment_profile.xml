@@ -96,6 +96,7 @@
         android:padding="16dp"
         android:text="Saved"
         android:textStyle="bold"
+        android:gravity="center"
         android:textSize="18sp"
         android:textColor="@color/my_primary"
         app:layout_constraintTop_toBottomOf="@id/profileHeaderCard" />
@@ -173,9 +174,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_margin="30dp"
-                        android:text="expect nothing appriciate everything"
+                        android:text="Expect nothing, appriciate everything"
                         android:textSize="20sp"
-                        android:textColor="@color/my_secprimary"/>
+                        android:textColor="@color/my_secprimary"
+                        android:gravity="center"/>
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
 
@@ -198,7 +200,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Negara"
+                        android:text="Countries"
                         android:textSize="14sp"
                         android:textColor="#757575" />
 
@@ -206,9 +208,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_margin="30dp"
-                        android:text="Rusia adalah negara dengan hutan terbesar di dunia, dengan luas 815 juta hektar"
+                        android:text="Russia is the country with the largest forests in the world, with an area of ​​815 million hectares."
                         android:textSize="20sp"
-                        android:textColor="@color/my_secprimary"/>
+                        android:textColor="@color/my_secprimary"
+                        android:gravity="center"/>
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
 
@@ -231,7 +234,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Sejarah"
+                        android:text="History"
                         android:textSize="14sp"
                         android:textColor="#757575" />
 
@@ -239,9 +242,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_margin="30dp"
-                        android:text="Di Mesir Kuno, kata untuk 'kucing' sebenarnya diucapkan 'mew', atau 'meow'"
+                        android:text="In Ancient Egypt, the word for 'cat' was actually pronounced 'mew', or 'meow'"
                         android:textSize="20sp"
-                        android:textColor="@color/my_secprimary"/>
+                        android:textColor="@color/my_secprimary"
+                        android:gravity="center"/>
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
 
@@ -264,7 +268,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Alam"
+                        android:text="Nature"
                         android:textSize="14sp"
                         android:textColor="#757575" />
 
@@ -272,9 +276,10 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_margin="30dp"
-                        android:text="Sungai terpanjang di dunia adalah Sungai Nil, yang panjangnya mencapai 6.853 km."
+                        android:text="The longest river in the world is the Nile River, which is 6,853 km long."
                         android:textSize="20sp"
-                        android:textColor="@color/my_secprimary"/>
+                        android:textColor="@color/my_secprimary"
+                        android:gravity="center"/>
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
         </LinearLayout>
